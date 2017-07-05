@@ -23,26 +23,26 @@
 </td></tr>
 </table>
 ```
-### 00.46.00.18 中文
+### 00.46.00.18 英文
 ```html
 <table style="font-size:13px;color:#fff;"> 
 <tr><td>
 <h3>可更新至00.46.00.18</h3>
 </td></tr>
 <tr><td>
-1、更换了新的桌面图标       
+1、Change new launcher icons.   
 </td></tr>
 <tr><td>
-2、增加了帮助中心（常见问题）                  
+2、Add help center (FAQ)                  
 </td></tr>
 <tr><td>
-3、提升登录密码强度及机制，增强了安全性
+3、Improve strength and system of login password which enhances security.
 </td></tr>
 <tr><td>
-4、优化了部分操作体验
+4、Optimize some operating experiences.
 </td></tr>
 <tr><td>
-5、修复了已知问题
+5、Fix known problems.
 </td></tr>
 </table>
 ```
