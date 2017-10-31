@@ -1,28 +1,14 @@
-# YooseeUpData  
-###00.46.00.21修改内容：
-    1.通过AP热点连接添加的设备也可以使用分享功能了；
-    2.“我的”板块全新改版；
-    3.采用了全新的全景算法库，全景监控更加精彩；
-    4.新增白光灯功能（需要硬件设备支持）；
-    5.还有一大波细节改进和安全优化；
-    6.修复了部分已知错误；
+# YooseeUpData
 
-1. Sharing function can also be used on those devices connecting via AP hotspot;
-2. Brand-new “my “interface;
-3. Use panoramic algorithm library which makes panoramic monitoring more wonderful. 
-4. Add white light function (need support of hardware);
-5. Optimize security and improve other things.
-6. Fix some known mistakes.
-
-
-###00.46.00.20修改内容        
+### 00.46.00.21修改内容：
+### 00.46.00.20修改内容        
 1.设备连接绑定及密码设置机制优化         
 2.影像界面去掉分辨率信息        
 3.非中文版本启动界面去掉中文      
 4.APP“我的”中去掉用户ID信息       
 5.回放界面配色及UI调整     
 
-###00.46.00.19修改内容
+### 00.46.00.19修改内容
 【新增】分享功能  
 【新增】上传位置信息给服务器   
 【新增】APP配色和图标修改   
