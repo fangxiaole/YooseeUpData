@@ -22,11 +22,11 @@
 4.APP“我的”中去掉用户ID信息       
 5.回放界面配色及UI调整
 
-1.Optimize the mechanism of device binding and password setting.
-2.Remove resolution information from the image interface.
-3.Remove Chinese text of non-Chinese app version in the Splash screens.
-4.Remove user ID information in "my" interface.
-5.Replay interface color matching and UI adjustment.     
+1.Optimize the mechanism of device binding and password setting.  
+2.Remove resolution information from the image interface.  
+3.Remove Chinese text of non-Chinese app version in the Splash screens.   
+4.Remove user ID information in "my" interface.  
+5.Replay interface color matching and UI adjustment.    
 
 ### 00.46.00.19修改内容
 【新增】分享功能  
