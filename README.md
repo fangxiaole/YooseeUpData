@@ -1,5 +1,23 @@
 # YooseeUpData
 
+### 00.46.00.23修改内容 
+更新说明：
+1.新的注册登录界面及回放，更加友好方便；
+2.微信登录用户可以绑定手机和邮箱了（需要先创建密码）；
+3.全景设备监控截图和视频支持全景操作；
+4.增加对门铃传感器的支持；
+5.增加手势翻转功能；
+6.优化了一些细节操作体验；
+7.修复部分已知问题；
+
+1.Brand new interface for registration and login features.
+2.WeChat login user can bind phone and email（Need to create a password first）.
+3.Panoramic devices' screenshots and videos support panoramic operation.
+4.Users can add doorbell sensors to specific devices.
+5.Add  gesture flipping function.
+6.A lot of user experience upgrade.
+7.Fixed some known bugs.
+
 ### 00.46.00.21修改内容 
 1.通过AP热点连接添加的设备也可以使用分享功能了   
 2.“我的”板块全新改版  
