@@ -3,6 +3,12 @@
 Remote monitoring, smart home appliances
 
 Yoosee is a free application tailored for the new generation of smart home products. With advanced Cloudlink P2P network transmission technology, remote monitoring has never been so simple. It enables you to take care of your family and friends at all times and in all places
+### 00.46.00.24修改内容 
+更新说明：
+1.修复了部分问题。
+
+1.Fixed some bugs.
+
 ### 00.46.00.23修改内容 
 更新说明：
 1.新的注册登录界面及回放，更加友好方便；
